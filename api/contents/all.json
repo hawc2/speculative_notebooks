@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-19T02:09:13.229903Z",
+      "created": "2022-02-19T02:33:37.722303Z",
       "format": null,
-      "last_modified": "2022-02-19T02:08:10.736735Z",
+      "last_modified": "2022-02-19T02:32:19.354729Z",
+      "mimetype": null,
+      "name": "Word2Vec.ipynb",
+      "path": "Word2Vec.ipynb",
+      "size": 11431891,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-02-19T02:33:37.710303Z",
+      "format": null,
+      "last_modified": "2022-02-19T02:32:19.274728Z",
       "mimetype": null,
       "name": "Topic_Modeling.ipynb",
       "path": "Topic_Modeling.ipynb",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-19T02:09:13.229903Z",
+      "created": "2022-02-19T02:33:37.710303Z",
       "format": null,
-      "last_modified": "2022-02-19T02:09:12.213884Z",
+      "last_modified": "2022-02-19T02:33:36.326312Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-19T02:09:13.229903Z",
+  "created": "2022-02-19T02:33:37.710303Z",
   "format": "json",
-  "last_modified": "2022-02-19T02:09:13.229903Z",
+  "last_modified": "2022-02-19T02:33:37.710303Z",
   "mimetype": null,
   "name": "",
   "path": "",
